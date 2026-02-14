@@ -1,1 +1,41 @@
-{}
+{
+  "astrbot_plugin_friends_welcome": {
+    "display_name": "friends_welcome",
+    "desc": "(OneBot v11) 好友审批系统",
+    "author": "mjy1113451# 作者",
+    "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome"
+  },
+  "astrbot_plugin_web_search": {
+    "display_name": "增强搜索",
+    "desc": "提供基于 Gemini 协议的网页搜索与时效性校对功能。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_search",
+    "tags": [
+      "网页",
+      "搜索",
+      "网页搜索"
+    ],
+    "social_link": "3268514224"
+  },
+  "diyrule": {
+    "display_name": "自定义群聊的唤醒规则",
+    "desc": "为每个群聊自定义唤醒规则",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/diyrule",
+    "tags": [
+      "工具",
+      "辅助",
+      "群聊",
+      "功能"
+    ]
+  },
+  "message_cleaner": {
+    "display_name": "消息清洗器",
+    "desc": "在 Bot 回复前过滤掉人机词汇或者你不喜欢的内容",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/message_cleaner",
+    "tags": [
+      "美化"
+    ]
+  }
+}
