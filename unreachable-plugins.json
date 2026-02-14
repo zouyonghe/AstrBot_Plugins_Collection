@@ -1,1 +1,6 @@
-{}
+{
+  "diyrule": "https://github.com/landamao/diyrule",
+  "message_cleaner": "https://github.com/landamao/message_cleaner",
+  "astrbot_plugin_friends_welcome": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
+  "astrbot_plugin_web_search": "https://github.com/zhyx111999/astrbot_plugin_web_search"
+}
