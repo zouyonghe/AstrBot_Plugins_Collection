@@ -37,5 +37,10 @@
     "tags": [
       "美化"
     ]
+  },
+  "astrbot_plugin_furry_cg": {
+    "desc": "小茶馆插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg"
   }
 }
