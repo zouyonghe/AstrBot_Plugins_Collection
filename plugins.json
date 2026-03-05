@@ -1409,12 +1409,6 @@
     ],
     "social_link": "https://github.com/Hakuin123"
   },
-  "astrbot_plugin_queue_system": {
-    "display_name": "排队系统",
-    "desc": "一个功能完整的排队系统插件，支持加入队列、退出队列等功能",
-    "author": "mogudunxy",
-    "repo": "https://github.com/mogudunxy/astrbot_plugin_queue_system"
-  },
   "astrbot_plugin_shell_exec": {
     "display_name": "Shell 执行插件",
     "desc": "一个用于执行 shell 命令的 AstrBot 插件。",

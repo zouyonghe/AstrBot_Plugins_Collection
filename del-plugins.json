@@ -42,5 +42,11 @@
     "desc": "小茶馆插件",
     "author": "furryhm",
     "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg"
+  },
+  "astrbot_plugin_queue_system": {
+    "display_name": "排队系统",
+    "desc": "一个功能完整的排队系统插件，支持加入队列、退出队列等功能",
+    "author": "mogudunxy",
+    "repo": "https://github.com/mogudunxy/astrbot_plugin_queue_system"
   }
 }
