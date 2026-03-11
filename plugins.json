@@ -2012,17 +2012,6 @@
     ],
     "social_link": "https://github.com/Yue-bin"
   },
-  "astrbot_plugin_plugins_summary": {
-    "display_name": "插件目录查询",
-    "desc": "一款查询当前安装插件目录并以图片返回的插件",
-    "author": "飞翔的死猪",
-    "repo": "https://github.com/1-20182/astrbot_plugin_plugins_summary/tree/main",
-    "tags": [
-      "功能",
-      "汇总"
-    ],
-    "social_link": "https://github.com/1-20182"
-  },
   "astrbot_plugin_color": {
     "display_name": "颜色转换器",
     "desc": "实现颜色格式互转、图片按坐标取色等颜色分析功能",
