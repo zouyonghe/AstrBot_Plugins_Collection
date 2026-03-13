@@ -64,5 +64,10 @@
       "汇总"
     ],
     "social_link": "https://github.com/1-20182"
+  },
+  "astrbot_plugin_xyzw_box": {
+    "author": "cloudcranesss",
+    "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
+    "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box"
   }
 }

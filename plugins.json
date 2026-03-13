@@ -5769,11 +5769,6 @@
     ],
     "repo": "https://github.com/itismygo/astrbot_plugin_mathjax2image"
   },
-  "astrbot_plugin_xyzw_box": {
-    "author": "cloudcranesss",
-    "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
-    "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box"
-  },
   "astrbot_scpsl_server": {
     "author": "若梦",
     "repo": "https://github.com/liangkga/astrbot_scpsl_server",
