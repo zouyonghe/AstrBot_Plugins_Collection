@@ -1,1 +1,7 @@
-{}
+{
+  "astrbot_plugin_life_scheduler": "https://github.com/muyouzhi6/astrbot_plugin_life_scheduler",
+  "qftp": "https://github.com/idk114-514/astrbot_plugins_qftp",
+  "astrbot_plugin_redstone": "https://github.com/oyxning/astrbot_plugin_redstone",
+  "astrbot_plugin_random_vtb": "https://github.com/Wave233Lee/astrbot_plugin_random_vtb",
+  "astrbot_plugin_error_filter": "https://github.com/LuffyLSX/astrbot_plugin_error_filter"
+}
