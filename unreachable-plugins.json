@@ -1,7 +1,7 @@
 {
-  "astrbot_plugin_life_scheduler": "https://github.com/muyouzhi6/astrbot_plugin_life_scheduler",
-  "qftp": "https://github.com/idk114-514/astrbot_plugins_qftp",
-  "astrbot_plugin_redstone": "https://github.com/oyxning/astrbot_plugin_redstone",
-  "astrbot_plugin_random_vtb": "https://github.com/Wave233Lee/astrbot_plugin_random_vtb",
-  "astrbot_plugin_error_filter": "https://github.com/LuffyLSX/astrbot_plugin_error_filter"
+  "astrbot_plugin_pjsk": "https://github.com/camera-2018/astrbot_plugin_pjsk",
+  "astrbot_plugin_anuneko": "https://github.com/mkroen/astrbot_plugin_anuneko",
+  "astrbot_plugin_VisiStat": "https://github.com/Rentz412/astrbot_plugin_VisiStat",
+  "astrbot_plugin_bolatuship": "https://github.com/shskjw/astrbot_plugin_bolatuship",
+  "astrbot_plugin_dajiao": "https://github.com/tenno1174/astrbot_plugin_dajiao"
 }
