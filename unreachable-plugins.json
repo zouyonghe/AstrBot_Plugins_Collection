@@ -1,5 +1,7 @@
 {
-  "astrbot_plugin_judge": "https://github.com/HEI1491/astrbot_plugin_judge",
-  "astrbot_plugin_wakepro": "https://github.com/Zhalslar/astrbot_plugin_wakepro",
-  "astrbot_plugin_error_filter": "https://github.com/LuffyLSX/astrbot_plugin_error_filter"
+  "astrbot_plugin_hapemxg_Inspect": "https://github.com/hapemxg/astrbot_plugin_hapemxg_Inspect",
+  "astrbot_plugin_simulation-xiuxian": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
+  "asbot_plugin_furry_jtwzbq": "https://github.com/furryHM-mrz/asbot_plugin_furry_jtwzbq",
+  "astrbot_plugin_daily_reminder": "https://github.com/xiaolan0216/astrbot_plugin_daily_reminder",
+  "astrbot-plugin-relaychat": "https://github.com/HikariFroya/astrbot-plugin-relaychat"
 }
