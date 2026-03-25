@@ -1,7 +1,6 @@
 {
-  "astrbot_plugin_hapemxg_Inspect": "https://github.com/hapemxg/astrbot_plugin_hapemxg_Inspect",
-  "astrbot_plugin_simulation-xiuxian": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
-  "asbot_plugin_furry_jtwzbq": "https://github.com/furryHM-mrz/asbot_plugin_furry_jtwzbq",
-  "astrbot_plugin_daily_reminder": "https://github.com/xiaolan0216/astrbot_plugin_daily_reminder",
-  "astrbot-plugin-relaychat": "https://github.com/HikariFroya/astrbot-plugin-relaychat"
+  "astrbot_plugin_telegram_summary": "https://github.com/Sakura520222/astrbot_plugin_telegram_summary",
+  "gemini-25-image-openrouter": "https://github.com/miaoxutao123/AstrBot_plugin_gemini2point5image-openrouter",
+  "astrbot_plugin_check-dst-room": "https://github.com/EncodedWitcher/astrbot_plugin_check-dst-room",
+  "astrbot_plugin_weakblacklist": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_weakblacklist"
 }
