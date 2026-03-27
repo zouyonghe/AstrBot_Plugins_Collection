@@ -6119,15 +6119,6 @@
     "desc": "一款灵活高效的文本转图片工具，让文字呈现更具视觉张力",
     "repo": "https://github.com/wuyan1003/astrbot_plugin_text2image"
   },
-  "astrbot_plugin_angus": {
-    "author": "angus-fw",
-    "desc": "综合功能插件合集，集成了多个实用功能，包括智能提醒、主动对话、涩图功能和服务器状态监控等",
-    "repo": "https://github.com/Angus-fw/astrbot_plugin_angus",
-    "tags": [
-      "工具"
-    ],
-    "social_link": "https://github.com/Angus-fw"
-  },
   "astrbot_plugin_timetask": {
     "author": "ZW",
     "desc": "这是timetask插件，支持定时消息，可以指定微信群(暂时只支持WechatPadPro渠道)",

@@ -69,5 +69,14 @@
     "author": "cloudcranesss",
     "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
     "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box"
+  },
+  "astrbot_plugin_angus": {
+    "author": "angus-fw",
+    "desc": "综合功能插件合集，集成了多个实用功能，包括智能提醒、主动对话、涩图功能和服务器状态监控等",
+    "repo": "https://github.com/Angus-fw/astrbot_plugin_angus",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/Angus-fw"
   }
 }

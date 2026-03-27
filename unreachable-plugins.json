@@ -1,10 +1,5 @@
 {
-  "astrbot_plugin_pic_mirror": "https://github.com/FenChen0211/astrbot-plugin-pic-mirror",
-  "astrbot_plugin_goons": "https://github.com/Juhua402/astrbot_plugin_goons",
-  "astrbot_plugin_link_resolver": "https://github.com/vacacia/astrbot_plugin_link_resolver",
-  "astrbot_plugin_persona_plus": "https://github.com/railgun19457/astrbot_plugin_persona_plus",
-  "astrbot_plugin_angus": "https://github.com/Angus-fw/astrbot_plugin_angus",
-  "astrbot_plugin_timetask": "https://github.com/Zhenyi-Wang/astrbot-timetask",
-  "astrbot_plugin_quote_collocter": "https://github.com/litsum/astrbot_plugin_quote_collocter",
-  "astrbot_plugin_for_sd_webui": "https://github.com/xiewoc/astrbot_plugin_for_sd_webui"
+  "astrbot_plugin_service_watcher": "https://github.com/Aloys233/astrbot_plugin_service_watcher",
+  "astrbot_plugin_PersonaFlow": "https://github.com/yizyin2/astrbot_plugin_PersonaFlow",
+  "astrbot_plugin_monixiuxian2": "https://github.com/xiaojuwa/astrbot_plugin_monixiuxian2"
 }
