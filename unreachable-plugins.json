@@ -1,3 +1,12 @@
 {
-  "astrbot_plugin_human_service": "https://github.com/Zhalslar/astrbot_plugin_human_service"
+  "astrbot_plugin_at_ignore": "https://github.com/lamp3721/astrbot_plugin_at_ignore",
+  "astrbot_plugin_media_parser": "https://github.com/drdon1234/astrbot_plugin_media_parser",
+  "astrbot_plugin_message_stats": "https://github.com/xiaoruange39/astrbot_plugin_message_stats",
+  "astrbot_plugin_llm_draw_plus": "https://github.com/miaoxutao123/astrbot_plugin_llm_draw_plus",
+  "astrbot_plugin_gscore_adapter": "https://github.com/KimigaiiWuyi/astrbot_plugin_gscore_adapter",
+  "astrbot_plugin_jrrp": "https://github.com/exusiaiwei/astrbot_plugin_jrrp",
+  "astrbot_plugin_archlinux_package_search": "https://github.com/xmengnet/astrbot_plugin_archlinux_package_search",
+  "astrbot_plugin_wordle": "https://github.com/Raven95676/astrbot_plugin_wordle",
+  "mccloud_deepseek": "https://github.com/MCYUNIDC/mccloud_deepseek",
+  "astrbot_websitetool": "https://github.com/wxgl/astrbot_websitetool"
 }
