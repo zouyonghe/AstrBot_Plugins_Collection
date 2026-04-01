@@ -6552,11 +6552,6 @@
       "股票"
     ]
   },
-  "astrbot_plugin_at_responder": {
-    "author": "和泉智宏",
-    "desc": "多样化@回复插件，配置时请先设置群聊进行@回复，本插件默认不进行@回复支持指定人的全局@、特定群的指定人的@、全群@以及黑名单功能。",
-    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder"
-  },
   "astrbot_plugin_regex_filter": {
     "author": "LKarxa",
     "desc": " 一个使用正则表达式处理LLM消息的AstrBot插件，可以对LLM回复进行替换、删除、增添等操作。",
@@ -6755,11 +6750,6 @@
     "tags": [
       "小姐姐"
     ]
-  },
-  "astrbot_plugin_repeat_after_me": {
-    "author": "和泉智宏",
-    "desc": "一个简单的跟读插件，当用户@机器人并发送'跟我说xxx'时，机器人会复读'xxx'中的内容。只支持文字的消息。本插件仅在群聊中生效。参考astrbot_plugin_astrbot_plugin_repetition。",
-    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me"
   },
   "astrbot_plugin_mirage": {
     "author": "大沙北",

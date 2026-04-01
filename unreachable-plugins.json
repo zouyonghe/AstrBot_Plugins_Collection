@@ -1,23 +1,3 @@
 {
-  "astrbot_plugin_group_quiz": "https://github.com/Misaka13906/astrbot_plugin_group_quiz",
-  "astrbot_plugin_mc_duration": "https://github.com/gangcaiyoule/astrbot_plugin_mc_duration",
-  "astrbot_plugin_office_assistant": "https://github.com/Clhikari/astrbot_plugin_office_assistant",
-  "astrbot_plugin_models_ai": "https://github.com/xiaomizhoubaobei/astrbot_plugin_models_ai",
-  "astrbot_plugin_better_reminder": "https://github.com/Sarit-x/astrbot_plugin_better_reminder",
-  "astrbot_plugin_fortnue": "https://github.com/Xbodwf/astrbot_plugin_fortnue",
-  "astrbot_plugin_QQbox": "https://github.com/Li-shi-ling/astrbot_plugin_QQbox",
-  "astrbot_plugin_be_checker": "https://github.com/oakboat/astrbot_plugin_be_checker",
-  "astrbot_plugin_fox_status": "https://github.com/GoodBoyboy666/astrbot_plugin_fox_status",
-  "astrbot_plugin_gemini_image": "https://github.com/railgun19457/astrbot_plugin_gemini_image",
-  "astrbot_plugin_shutdown": "https://github.com/Sjshi763/astrbot_plugin_shutdown",
-  "astrbot_plugin_cs_skins": "https://github.com/wsryhc/astrbot_plugin_cs_skins",
-  "astrbot_plugin_invitecount": "https://github.com/bvzrays/astrbot_plugin_invitecount",
-  "astrbot_plugin_proactive_chat": "https://github.com/DBJD-CR/astrbot_plugin_proactive_chat",
-  "astrbot_plugin_search_tracemoe": "https://github.com/PaloMiku/astrbot_plugin_search_tracemoe",
-  "astrbot_plugin_xiuxian": "https://github.com/oldPeter616/astrbot_plugin_xiuxian",
-  "astrbot_plugin_image_size_limit": "https://github.com/ctrlkk/astrbot_plugin_image_size_limit",
-  "astrbot_plugin_better_markdown_to_image": "https://github.com/MLSLi/astrbot_plugin_better_markdown_to_image",
-  "astrbot_plugin_at_responder": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder",
-  "astrbot_plugin_repeat_after_me": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me",
-  "astrbot_plugin_majsoul-master": "https://github.com/kterna/astrbot_plugin_majsoul-master"
+  "astrbot_plugin_guijishiping": "https://github.com/shskjw/astrbot_plugin_guijishiping"
 }
