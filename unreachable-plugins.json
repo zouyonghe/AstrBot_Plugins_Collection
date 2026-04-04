@@ -1,1 +1,5 @@
-{}
+{
+  "ImgBB助手": "https://github.com/FGXYX/astrbot_plugin_ImgBB_Subscriber",
+  "persistent_history": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
+  "astrbot_plugin_shoubanhua": "https://github.com/shskjw/astrbot_plugin_shoubanhua"
+}
