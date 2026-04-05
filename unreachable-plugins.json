@@ -1,5 +1,7 @@
 {
-  "ImgBB助手": "https://github.com/FGXYX/astrbot_plugin_ImgBB_Subscriber",
-  "persistent_history": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
-  "astrbot_plugin_shoubanhua": "https://github.com/shskjw/astrbot_plugin_shoubanhua"
+  "astrbot_plugin_blue_archive_auto_calendar": "https://github.com/AyaseWNA/astrbot_plugin_blue_archive_auto_calendar",
+  "astrbot_plugin_magnet_preview": "https://github.com/Foolllll-J/astrbot_plugin_magnet_preview",
+  "astrbot_plugin_lark_send_patcher": "https://github.com/Catfish872/lark_send_patcher",
+  "astrbot_plugin_identity_strategy": "https://github.com/caqingtgas/astrbot_plugin_identity_strategy",
+  "astrbot_plugin_cook": "https://github.com/Niloux/astrbot_plugin_cook"
 }
