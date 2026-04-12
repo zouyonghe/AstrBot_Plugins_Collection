@@ -1,6 +1,3 @@
 {
-  "astrbot_plugin_daliy_60s_news": "https://github.com/CJSen/astrbot_plugin_daliy_60s_news",
-  "astrbot_plugin_broadcast": "https://github.com/Zhalslar/astrbot_plugin_broadcast",
-  "astrbot_plugin_safebooru": "https://github.com/Last-emo-boy/astrbot_plugin_safebooru",
-  "astrbot_plugin_better_facebread": "https://github.com/xiewoc/astrbot_plugin_better_facebread"
+  "astrbot_plugin_search_pic": "https://github.com/lyjlyjlyjly/astrbot_plugin_search_pic"
 }
