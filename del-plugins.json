@@ -88,5 +88,17 @@
     "author": "和泉智宏",
     "desc": "一个简单的跟读插件，当用户@机器人并发送'跟我说xxx'时，机器人会复读'xxx'中的内容。只支持文字的消息。本插件仅在群聊中生效。参考astrbot_plugin_astrbot_plugin_repetition。",
     "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me"
+  },
+  "astrbot_plugin_web_analysis": {
+    "display_name": "网页解析",
+    "desc": "深度网页解析插件。支持静态抓取/动态渲染/自动截图，集成自定义 LLM 进行内容摘要与安全评估。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
+    "tags": [
+      "playwright",
+      "解析",
+      "网页"
+    ],
+    "social_link": "3268514224"
   }
 }

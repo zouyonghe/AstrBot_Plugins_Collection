@@ -1887,18 +1887,6 @@
       "v1.0.0"
     ]
   },
-  "astrbot_plugin_web_analysis": {
-    "display_name": "网页解析",
-    "desc": "深度网页解析插件。支持静态抓取/动态渲染/自动截图，集成自定义 LLM 进行内容摘要与安全评估。",
-    "author": "YEZI",
-    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
-    "tags": [
-      "playwright",
-      "解析",
-      "网页"
-    ],
-    "social_link": "3268514224"
-  },
   "astrbot_plugin_gskard": {
     "display_name": "搞牌...启动!",
     "desc": "一个模拟GSkard抽牌系统的插件",
