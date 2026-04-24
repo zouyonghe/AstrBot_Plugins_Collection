@@ -6,6 +6,8 @@ on:
       - "plugins.json"
       - "scripts/validate_plugins/**"
       - ".github/workflows/validate-plugin-smoke.yml"
+  schedule:
+    - cron: "0 2 * * *"
   workflow_dispatch:
     inputs:
       plugin_names:
@@ -38,6 +40,15 @@ jobs:
           echo "PLUGIN_NAME_LIST=${{ inputs.plugin_names }}" >> "$GITHUB_ENV"
           echo "PLUGIN_LIMIT=${{ inputs.plugin_limit }}" >> "$GITHUB_ENV"
           echo "SHOULD_VALIDATE=true" >> "$GITHUB_ENV"
+
+      - name: Set scheduled validation inputs
+        if: github.event_name == 'schedule'
+        run: |
+          echo "ASTRBOT_REF=master" >> "$GITHUB_ENV"
+          echo "PLUGIN_NAME_LIST=" >> "$GITHUB_ENV"
+          echo "PLUGIN_LIMIT=" >> "$GITHUB_ENV"
+          echo "SHOULD_VALIDATE=true" >> "$GITHUB_ENV"
+          echo "VALIDATION_NOTE=Running scheduled full plugin validation." >> "$GITHUB_ENV"
 
       - name: Detect changed plugins from pull request
         if: github.event_name == 'pull_request'

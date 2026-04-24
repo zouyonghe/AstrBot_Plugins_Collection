@@ -1,5 +1,8 @@
 .idea/*
 
+.worktrees/
+docs/plans/
+
 # 临时数据文件
 existing_cache.json
 original_plugins.json
