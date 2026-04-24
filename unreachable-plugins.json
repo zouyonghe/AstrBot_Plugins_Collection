@@ -1,1 +1,21 @@
-{}
+{
+  "astrbot-plugin-work-logger": "https://github.com/tilicil/Astrbot_plugin_work_logger",
+  "astrbot-plugin-arknights": "https://github.com/liuwanwan1/astrbot_plugin_arknights",
+  "astrbot-plugin-topic-starter": "https://github.com/exynos967/astrbot_plugin_topic_starter",
+  "astrbot-plugin-napcat-enhanced": "https://github.com/Nonepf/astrbot_plugin_napcat_enhanced",
+  "astrbot-plugin-wordlimit": "https://github.com/DCM234/astrbot_plugin_wordlimit",
+  "diyrule": "https://github.com/landamao/diyrule",
+  "message_cleaner": "https://github.com/landamao/message_cleaner",
+  "astrbot_plugin_friends_welcome": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
+  "astrbot_plugin_chord": "https://github.com/204343414/astrbot_plugin_chord",
+  "astrbot_plugin_queue_system": "https://github.com/mogudunxy/astrbot_plugin_queue_system",
+  "astrbot_plugin_web_search": "https://github.com/zhyx111999/astrbot_plugin_web_search",
+  "astrbot_plugin_web_analysis": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
+  "astrbot_plugin_plugins_summary": "https://github.com/1-20182/astrbot_plugin_plugins_summary/tree/main",
+  "astrbot_plugin_furry_cg": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
+  "astrbot_plugin_xyzw_box": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box",
+  "astrbot_plugin_angus": "https://github.com/Angus-fw/astrbot_plugin_angus",
+  "astrbot_plugin_at_responder": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder",
+  "astrbot_plugin_repeat_after_me": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me",
+  "astrbot_plugin_ignore_at": "https://github.com/clfpwp/astrbot_plugin_ignore_at"
+}
