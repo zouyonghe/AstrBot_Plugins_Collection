@@ -1,1 +1,169 @@
-{}
+{
+  "astrbot-plugin-arknights": {
+    "display_name": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
+    "desc": "基于森空岛（Skland）公开API的明日方舟玩家数据查询AstrBot插件",
+    "author": "liuwanwan",
+    "repo": "https://github.com/liuwanwan1/astrbot_plugin_arknights",
+    "category": "entertainment"
+  },
+  "astrbot-plugin-napcat-enhanced": {
+    "display_name": "Napcat_Enhanced",
+    "desc": "基于原有功能的增强的 AstrBot NapCat 接入插件，提供丰富的 QQ 机器人功能。",
+    "author": "Nonepf",
+    "repo": "https://github.com/Nonepf/astrbot_plugin_napcat_enhanced",
+    "category": "integrations"
+  },
+  "astrbot-plugin-topic-starter": {
+    "display_name": "topic_starter",
+    "desc": "主动话题发起、会话跟踪、可配置调度",
+    "author": "薄暝",
+    "repo": "https://github.com/exynos967/astrbot_plugin_topic_starter",
+    "tags": [
+      "话题",
+      "主动发言"
+    ],
+    "category": "utilities"
+  },
+  "astrbot-plugin-wordlimit": {
+    "display_name": "字数限制器",
+    "desc": "在 LLM 回复后检查字数，超过限制时自动使用 LLM 缩短回复内容",
+    "author": "lingyu",
+    "repo": "https://github.com/DCM234/astrbot_plugin_wordlimit",
+    "tags": [
+      "字数限制"
+    ],
+    "category": "utilities"
+  },
+  "astrbot-plugin-work-logger": {
+    "display_name": "工作记录插件",
+    "desc": "工作记录插件，支持自然语言记录工作内容，自动生成日报/周报/月报，支持定时推送图片格式工作报告",
+    "author": "Tilicil",
+    "repo": "https://github.com/tilicil/Astrbot_plugin_work_logger"
+  },
+  "astrbot_plugin_angus": {
+    "author": "angus-fw",
+    "desc": "综合功能插件合集，集成了多个实用功能，包括智能提醒、主动对话、涩图功能和服务器状态监控等",
+    "repo": "https://github.com/Angus-fw/astrbot_plugin_angus",
+    "tags": [
+      "工具"
+    ],
+    "social_link": "https://github.com/Angus-fw",
+    "category": "utilities"
+  },
+  "astrbot_plugin_at_responder": {
+    "author": "和泉智宏",
+    "desc": "多样化@回复插件，配置时请先设置群聊进行@回复，本插件默认不进行@回复支持指定人的全局@、特定群的指定人的@、全群@以及黑名单功能。",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_at_responder",
+    "category": "utilities"
+  },
+  "astrbot_plugin_chord": {
+    "display_name": "和弦查询",
+    "desc": "和弦查询用，自动计算弹法。",
+    "author": "ハ·7",
+    "repo": "https://github.com/204343414/astrbot_plugin_chord",
+    "tags": [
+      "和弦",
+      "娱乐"
+    ],
+    "category": "utilities"
+  },
+  "astrbot_plugin_friends_welcome": {
+    "display_name": "friends_welcome",
+    "desc": "(OneBot v11) 好友审批系统",
+    "author": "mjy1113451# 作者",
+    "repo": "https://github.com/mjy1113451/astrbot_plugin_friends_welcome",
+    "category": "utilities"
+  },
+  "astrbot_plugin_furry_cg": {
+    "desc": "小茶馆插件",
+    "author": "furryhm",
+    "repo": "https://github.com/furryHM-mrz/astrbot_plugin_furry_cg",
+    "category": "entertainment"
+  },
+  "astrbot_plugin_ignore_at": {
+    "desc": "让机器人无视QQ的@全体成员,以及提供一个@唤醒机器人的开关",
+    "author": "Cl_Fu",
+    "repo": "https://github.com/clfpwp/astrbot_plugin_ignore_at",
+    "category": "utilities"
+  },
+  "astrbot_plugin_plugins_summary": {
+    "display_name": "插件目录查询",
+    "desc": "一款查询当前安装插件目录并以图片返回的插件",
+    "author": "飞翔的死猪",
+    "repo": "https://github.com/1-20182/astrbot_plugin_plugins_summary/tree/main",
+    "tags": [
+      "功能",
+      "汇总"
+    ],
+    "social_link": "https://github.com/1-20182",
+    "category": "utilities"
+  },
+  "astrbot_plugin_queue_system": {
+    "display_name": "排队系统",
+    "desc": "一个功能完整的排队系统插件，支持加入队列、退出队列等功能",
+    "author": "mogudunxy",
+    "repo": "https://github.com/mogudunxy/astrbot_plugin_queue_system",
+    "category": "utilities"
+  },
+  "astrbot_plugin_repeat_after_me": {
+    "author": "和泉智宏",
+    "desc": "一个简单的跟读插件，当用户@机器人并发送'跟我说xxx'时，机器人会复读'xxx'中的内容。只支持文字的消息。本插件仅在群聊中生效。参考astrbot_plugin_astrbot_plugin_repetition。",
+    "repo": "https://github.com/0d00-Ciallo-0721/astrbot_plugin_repeat_after_me",
+    "category": "utilities"
+  },
+  "astrbot_plugin_web_analysis": {
+    "display_name": "网页解析",
+    "desc": "深度网页解析插件。支持静态抓取/动态渲染/自动截图，集成自定义 LLM 进行内容摘要与安全评估。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_analysis",
+    "tags": [
+      "playwright",
+      "解析",
+      "网页"
+    ],
+    "social_link": "3268514224",
+    "category": "ai_tools"
+  },
+  "astrbot_plugin_web_search": {
+    "display_name": "增强搜索",
+    "desc": "提供基于 Gemini 协议的网页搜索与时效性校对功能。",
+    "author": "YEZI",
+    "repo": "https://github.com/zhyx111999/astrbot_plugin_web_search",
+    "tags": [
+      "网页",
+      "搜索",
+      "网页搜索"
+    ],
+    "social_link": "3268514224",
+    "category": "ai_tools"
+  },
+  "astrbot_plugin_xyzw_box": {
+    "author": "cloudcranesss",
+    "desc": "通过 OCR 识别咸鱼之王游戏中的宝箱数量",
+    "repo": "https://github.com/cloudcranesss/astrbot_plugin_xyzw_box",
+    "category": "entertainment"
+  },
+  "diyrule": {
+    "display_name": "自定义群聊的唤醒规则",
+    "desc": "为每个群聊自定义唤醒规则",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/diyrule",
+    "tags": [
+      "工具",
+      "辅助",
+      "群聊",
+      "功能"
+    ],
+    "category": "utilities"
+  },
+  "message_cleaner": {
+    "display_name": "消息清洗器",
+    "desc": "在 Bot 回复前过滤掉人机词汇或者你不喜欢的内容",
+    "author": "懒大猫",
+    "repo": "https://github.com/landamao/message_cleaner",
+    "tags": [
+      "美化"
+    ],
+    "category": "utilities"
+  }
+}
