@@ -1,6 +1,10 @@
 {
-  "astrbot-plugin-bookkeeper": "https://github.com/IwannaYuJie/astrbot_plugin_bookkeeper.git",
-  "astrbot_plugin_STEmbedding": "https://github.com/Li-shi-ling/astrbot_plugin_STEmbedding",
-  "astrbot_plugin_llm_amnesia": "https://github.com/SinkAbyss/astrbot_plugin_llm_amnesia",
-  "astrbot_plugin_lottery": "https://github.com/Zhalslar/astrbot_plugin_lottery"
+  "zhiyu-astrbot-business": "https://github.com/ovoox/zhiyu-astrbot-business",
+  "zhiyu-astrbot-sjyy": "https://github.com/ovoox/zhiyu-astrbot-sjyy",
+  "zhiyu-astrbot-zdtyfxx": "https://github.com/ovoox/zhiyu-astrbot-zdtyfxx",
+  "zhiyu-astrbot-qqaiavatar": "https://github.com/ovoox/zhiyu-astrbot-aiqqavatar",
+  "zhiyu-astrbot-violationquery": "https://github.com/ovoox/zhiyu-astrbot-violationquery",
+  "zhiyu-astrbot-qqquery": "https://github.com/ovoox/zhiyu-astrbot-qqquery",
+  "astrbot_plugin_showme_xjj": "https://github.com/drdon1234/astrbot_plugin_showme_xjj",
+  "astrbot_plugin_ehentai_bot": "https://github.com/drdon1234/astrbot_plugin_ehentai_bot"
 }
