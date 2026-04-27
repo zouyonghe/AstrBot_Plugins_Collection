@@ -6124,36 +6124,6 @@
     ],
     "category": "entertainment"
   },
-  "zhiyu-astrbot-business": {
-    "desc": "一款查询 QQ 业务/名称/开通/到期时间以及自动续费/剩余天数/Q币的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-business",
-    "tags": [
-      "业务"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "category": "utilities"
-  },
-  "zhiyu-astrbot-sjyy": {
-    "desc": "一款随机音乐的 AstrBot 插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-sjyy",
-    "tags": [
-      "音乐"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "category": "entertainment"
-  },
-  "zhiyu-astrbot-zdtyfxx": {
-    "desc": "自动同意所有 QQ 群邀请和 QQ 好友申请并发送消息",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-zdtyfxx",
-    "tags": [
-      "QQ"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "category": "utilities"
-  },
   "astrbot_plugin_violation_record": {
     "desc": "QQ 查询账号违规记录插件",
     "author": "Futureppo",
@@ -6163,17 +6133,6 @@
     ],
     "social_link": "https://github.com/Futureppo",
     "category": "utilities"
-  },
-  "zhiyu-astrbot-qqaiavatar": {
-    "desc": "一款AI解读QQ头像的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-aiqqavatar",
-    "tags": [
-      "AI",
-      "头像"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "category": "ai_tools"
   },
   "astrbot_plugin_zhanbu": {
     "desc": "占卜起数小工具，用于懒人排盘、占卜等，包括但不限于小六壬、梅花易数、塔罗等",
@@ -6581,18 +6540,6 @@
     "social_link": "https://github.com/PaloMiku/",
     "category": "entertainment"
   },
-  "zhiyu-astrbot-violationquery": {
-    "desc": "一款QQ违规记录查询的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-violationquery",
-    "tags": [
-      "违规",
-      "查询",
-      "违规记录"
-    ],
-    "social_link": "https://github.com/ovoox",
-    "category": "utilities"
-  },
   "astrbot_plugin_simulation-xiuxian": {
     "desc": "一个简单的文字模拟修仙插件",
     "author": "Victical",
@@ -6661,19 +6608,6 @@
       "合并消息分析与回复"
     ],
     "category": "ai_tools"
-  },
-  "zhiyu-astrbot-qqquery": {
-    "desc": "一款查询QQ空间 QQ音乐 QQ基本信息的AstrBot插件",
-    "author": "知鱼",
-    "repo": "https://github.com/ovoox/zhiyu-astrbot-qqquery",
-    "tags": [
-      "空间",
-      "音乐",
-      "查询",
-      "信息"
-    ],
-    "social_link": " https://github.com/ovoox",
-    "category": "integrations"
   },
   "弗一把": {
     "desc": "仿blast.tv猜csplayer",
@@ -10026,16 +9960,6 @@
     ],
     "category": "integrations"
   },
-  "astrbot_plugin_showme_xjj": {
-    "author": "drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_showme_xjj",
-    "desc": "[仅aiocqhttp] 随机小姐姐美图短视频",
-    "tags": [
-      "短视频",
-      "美图"
-    ],
-    "category": "entertainment"
-  },
   "astrbot_plugin_60s_news": {
     "author": "Flyinsz",
     "repo": "https://github.com/flyinsz/astrbot_plugin_60s_news",
@@ -10078,15 +10002,6 @@
     "social_link": "https://github.com/Futureppo",
     "repo": "https://github.com/Futureppo/astrbot_plugin_zanwo",
     "category": "utilities"
-  },
-  "astrbot_plugin_ehentai_bot": {
-    "desc": "适配 AstrBot 的 E-Hentai 画廊转 PDF 插件",
-    "author": "drdon1234",
-    "repo": "https://github.com/drdon1234/astrbot_plugin_ehentai_bot",
-    "tags": [
-      "ehentai"
-    ],
-    "category": "entertainment"
   },
   "astrbot_plugin_reread": {
     "display_name": "复读姬",
