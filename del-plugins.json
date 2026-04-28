@@ -250,5 +250,26 @@
     ],
     "social_link": "https://github.com/ovoox",
     "category": "utilities"
+  },
+  "astrbot_plugin_better_reminder": {
+    "display_name": "更好的提醒插件",
+    "desc": "更好的日程提醒，可以根据人设为你自定义提醒，让astrbot成为你的得力助手",
+    "author": "Sarit",
+    "repo": "https://github.com/Sarit-x/astrbot_plugin_better_reminder",
+    "tags": [
+      "提醒",
+      "日程"
+    ],
+    "social_link": "https://github.com/Sarit-x",
+    "category": "productivity"
+  },
+  "astrbot_plugin_wwbirthday": {
+    "desc": "鸣潮角色生日播报",
+    "author": "arkina",
+    "repo": "https://github.com/yan3931/astrbot_plugin_wwbirthday",
+    "tags": [
+      "鸣潮"
+    ],
+    "category": "entertainment"
   }
 }

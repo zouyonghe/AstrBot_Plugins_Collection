@@ -4128,18 +4128,6 @@
     "repo": "https://github.com/WangYi82909/astrbot_plugin_yotts",
     "category": "ai_tools"
   },
-  "astrbot_plugin_better_reminder": {
-    "display_name": "更好的提醒插件",
-    "desc": "更好的日程提醒，可以根据人设为你自定义提醒，让astrbot成为你的得力助手",
-    "author": "Sarit",
-    "repo": "https://github.com/Sarit-x/astrbot_plugin_better_reminder",
-    "tags": [
-      "提醒",
-      "日程"
-    ],
-    "social_link": "https://github.com/Sarit-x",
-    "category": "productivity"
-  },
   "astrbot_plugin_img_tool": {
     "display_name": "豆包&千问图生成工具",
     "desc": "根据消息信息生成图片或修改的函数工具",
@@ -8267,15 +8255,6 @@
     "author": "mmyddd",
     "repo": "https://github.com/mmyddd/astrbot_plugin_group_sign",
     "category": "productivity"
-  },
-  "astrbot_plugin_wwbirthday": {
-    "desc": "鸣潮角色生日播报",
-    "author": "arkina",
-    "repo": "https://github.com/yan3931/astrbot_plugin_wwbirthday",
-    "tags": [
-      "鸣潮"
-    ],
-    "category": "entertainment"
   },
   "astrbot_plugin_balance": {
     "desc": "一个简单的 LLM API 余额查询与 IP 查询小插件, 支持硅基流动，DeepSeek 与 OpenAI 余额查询及 IP 地址查询功能",
