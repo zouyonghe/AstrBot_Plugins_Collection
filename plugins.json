@@ -5329,13 +5329,6 @@
     "social_link": "https://github.com/vmoranv",
     "category": "ai_tools"
   },
-  "astrbot_plugin_whitelistpro": {
-    "display_name": "白名单拓展",
-    "desc": "支持临时会话、好友私聊、群聊的白名单独立控制和全局白名单黑名单",
-    "author": "gabriel0721",
-    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_whitelistpro",
-    "category": "utilities"
-  },
   "astrbot_plugin_val_shop": {
     "display_name": "掌上无畏契约每日商店查询",
     "desc": "无畏契约每日商店查询插件，支持绑定账户信息查看每日商店皮肤",
