@@ -2907,21 +2907,6 @@
     "social_link": "https://meilunova.pages.dev/",
     "category": "integrations"
   },
-  "astrbot_plugin_NekoMusic": {
-    "display_name": "Neko 云音乐点歌",
-    "desc": "一个接入了 Neko 云音乐的点歌插件",
-    "author": "Nyanyagulugulu(不穿胖次の小奶猫)",
-    "repo": "https://github.com/NyaNyagulugulu/astrbot_NekoMusic",
-    "tags": [
-      "音乐",
-      "Neko",
-      "云音乐",
-      "免费",
-      "娱乐"
-    ],
-    "social_link": "https://www.cnmsb.xin",
-    "category": "entertainment"
-  },
   "astrbot_plugin_mooncell_finder": {
     "display_name": "MOONCELL搜索插件",
     "desc": "MOONCELL搜索插件,用于查询FGO相关的从者、礼装、纹章和特性信息。",

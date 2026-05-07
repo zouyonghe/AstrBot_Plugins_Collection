@@ -278,5 +278,20 @@
     "author": "gabriel0721",
     "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_whitelistpro",
     "category": "utilities"
+  },
+  "astrbot_plugin_NekoMusic": {
+    "display_name": "Neko 云音乐点歌",
+    "desc": "一个接入了 Neko 云音乐的点歌插件",
+    "author": "Nyanyagulugulu(不穿胖次の小奶猫)",
+    "repo": "https://github.com/NyaNyagulugulu/astrbot_NekoMusic",
+    "tags": [
+      "音乐",
+      "Neko",
+      "云音乐",
+      "免费",
+      "娱乐"
+    ],
+    "social_link": "https://www.cnmsb.xin",
+    "category": "entertainment"
   }
 }
