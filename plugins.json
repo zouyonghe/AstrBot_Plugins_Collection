@@ -7788,16 +7788,6 @@
     "repo": "https://github.com/caqingtgas/astrbot_plugin_provider_ark_ResponsesAPI",
     "category": "integrations"
   },
-  "astrbot_plugin_meme_generator": {
-    "desc": "高性能表情包生成器 - 支持多种模板和智能参数识别，具备头像缓存、用户冷却、超时控制等高级功能",
-    "author": "SodaSizzle",
-    "repo": "https://github.com/SodaSizzle/astrbot_plugin_meme_generator",
-    "tags": [
-      "表情包"
-    ],
-    "social_link": "https://github.com/SodaSizzle",
-    "category": "entertainment"
-  },
   "astrbot_plugin_baiduocr": {
     "desc": "百度智能云的 OCR 文字识别服务。新用户有千次的免费调用次数，适合轻度使用",
     "author": "Yuki Soffd",
