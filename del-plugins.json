@@ -303,5 +303,54 @@
     ],
     "social_link": "https://github.com/SodaSizzle",
     "category": "entertainment"
+  },
+  "astrbot_mcmod_card": {
+    "desc": "MC 百科卡片解析",
+    "author": "QiChenSn",
+    "repo": "https://github.com/QiChenSn/astrbot_mcmod_card",
+    "tags": [
+      "MC",
+      "mcmod",
+      "解析"
+    ],
+    "social_link": "https://github.com/QiChenSn",
+    "category": "entertainment"
+  },
+  "astrbot_plugin_lingbao_market": {
+    "display_name": "灵宝集市监控",
+    "desc": "监听灵宝市集分享码，发送至后端接口。",
+    "author": "QiChen",
+    "repo": "https://github.com/QiChenSn/astrbot-wzry-lingbao-market",
+    "tags": [
+      "王者荣耀",
+      "灵宝",
+      "小马糕"
+    ],
+    "social_link": "https://github.com/QiChenSn",
+    "category": "entertainment"
+  },
+  "astrbot_plugin_mcgetter": {
+    "author": "QiChen",
+    "desc": "[仅 QQ]获取 MC 服务器信息, 渲染为图片",
+    "repo": "https://github.com/QiChenSn/astrbot_mcgetter",
+    "tags": [
+      "mc",
+      "minecraft",
+      "我的世界"
+    ],
+    "social_link": "https://github.com/QiChenSn",
+    "category": "entertainment"
+  },
+  "astrbot_qqemotionreply": {
+    "author": "QiChen",
+    "social_link": "https://github.com/QiChenSn",
+    "repo": "https://github.com/QiChenSn/astrbot_qqemotionreply",
+    "tags": [
+      "娱乐",
+      "恶搞",
+      "填满"
+    ],
+    "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
+    "category": "utilities"
   }
 }

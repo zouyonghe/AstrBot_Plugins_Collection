@@ -2788,19 +2788,6 @@
     "social_link": "https://github.com/Radiant303",
     "category": "utilities"
   },
-  "astrbot_plugin_lingbao_market": {
-    "display_name": "灵宝集市监控",
-    "desc": "监听灵宝市集分享码，发送至后端接口。",
-    "author": "QiChen",
-    "repo": "https://github.com/QiChenSn/astrbot-wzry-lingbao-market",
-    "tags": [
-      "王者荣耀",
-      "灵宝",
-      "小马糕"
-    ],
-    "social_link": "https://github.com/QiChenSn",
-    "category": "entertainment"
-  },
   "astrbot_plugin_BombGame": {
     "display_name": "数字炸弹游戏插件",
     "desc": "群内互动猜数字，支持多群独立游戏、轮流点名、超时临时会话提醒及 HTML 精美排行榜",
@@ -6597,18 +6584,6 @@
     ],
     "category": "entertainment"
   },
-  "astrbot_mcmod_card": {
-    "desc": "MC 百科卡片解析",
-    "author": "QiChenSn",
-    "repo": "https://github.com/QiChenSn/astrbot_mcmod_card",
-    "tags": [
-      "MC",
-      "mcmod",
-      "解析"
-    ],
-    "social_link": "https://github.com/QiChenSn",
-    "category": "entertainment"
-  },
   "astrbot_plugin_bilibili_adapter": {
     "desc": "Bilibili 私信适配器，使用 Cookie 认证。",
     "author": "Magstic, Gemini 2.5 Pro, Claude Opus 4, ChatGPT 5",
@@ -9632,18 +9607,6 @@
     "social_link": "https://github.com/Zhalslar/astrbot_plugin_nobot",
     "category": "utilities"
   },
-  "astrbot_plugin_mcgetter": {
-    "author": "QiChen",
-    "desc": "[仅 QQ]获取 MC 服务器信息, 渲染为图片",
-    "repo": "https://github.com/QiChenSn/astrbot_mcgetter",
-    "tags": [
-      "mc",
-      "minecraft",
-      "我的世界"
-    ],
-    "social_link": "https://github.com/QiChenSn",
-    "category": "entertainment"
-  },
   "astrbot_plugin_yinlish": {
     "author": "vmoranv",
     "desc": "普通文本转换为'*语',支持自定义*乱度,*语字典",
@@ -9822,18 +9785,6 @@
     "desc": "一键输出所有插件的命令帮助！",
     "repo": "https://github.com/tinkerbellqwq/astrbot_plugin_help",
     "social_link": "https://github.com/tinkerbellqwq",
-    "category": "utilities"
-  },
-  "astrbot_qqemotionreply": {
-    "author": "QiChen",
-    "social_link": "https://github.com/QiChenSn",
-    "repo": "https://github.com/QiChenSn/astrbot_qqemotionreply",
-    "tags": [
-      "娱乐",
-      "恶搞",
-      "填满"
-    ],
-    "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
     "category": "utilities"
   },
   "astrbot_plugin_llm_draw_plus": {
