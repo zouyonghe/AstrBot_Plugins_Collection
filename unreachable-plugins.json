@@ -1,3 +1,5 @@
 {
-  "astrbot-plugin-tarkovboss": "https://github.com/Alien-Star/astrbot_plugin_tarkovboss"
+  "astrbot_plugin_ExchangeRateQuery": "https://github.com/MoonShadow1976/astrbot_plugin_ExchangeRateQuery",
+  "astrbot_plugin_dajiao": "https://github.com/tenno1174/astrbot_plugin_dajiao",
+  "astrbot_plugin_jrrp": "https://github.com/exusiaiwei/astrbot_plugin_jrrp"
 }
