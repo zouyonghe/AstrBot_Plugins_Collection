@@ -352,5 +352,15 @@
     ],
     "desc": "[仅 aiocqhttp] 给 QQ 引用的消息贴表情",
     "category": "utilities"
+  },
+  "astrbot_plugin_mcman": {
+    "desc": "一个基于RCON协议的MC服务器管理器插件",
+    "author": "卡带酱",
+    "repo": "https://github.com/PISOFT-Studio/astrbot_plugin_mcman",
+    "tags": [
+      "Minecraft"
+    ],
+    "social_link": "https://kdja.top",
+    "category": "integrations"
   }
 }

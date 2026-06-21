@@ -6891,16 +6891,6 @@
     ],
     "category": "entertainment"
   },
-  "astrbot_plugin_mcman": {
-    "desc": "一个基于RCON协议的MC服务器管理器插件",
-    "author": "卡带酱",
-    "repo": "https://github.com/PISOFT-Studio/astrbot_plugin_mcman",
-    "tags": [
-      "Minecraft"
-    ],
-    "social_link": "https://kdja.top",
-    "category": "integrations"
-  },
   "astrbot_plugin_nbnhhsh": {
     "desc": "神奇海螺缩写查询，支持“XX是什么/是啥/是什么意思”提问，需先@机器人",
     "author": "薄暝",
