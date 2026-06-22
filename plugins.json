@@ -3490,20 +3490,6 @@
     "social_link": "https://github.com/muyouzhi6",
     "category": "utilities"
   },
-  "astrbot_plugin_daily_sharing": {
-    "display_name": "定时主动分享所见所闻",
-    "desc": "Daily Sharing 打破了单一的图文限制，让 Bot 拥有了“开口说话”的能力，根据时间段、生活状态、聊天记忆和网络热搜，通过带有情绪的语音、配图与文字，向指定的好友或群组分享生活点滴。",
-    "author": "四次元未来",
-    "repo": "https://github.com/siciyuanweilai/astrbot_plugin_daily_sharing",
-    "tags": [
-      "拟人",
-      "分享",
-      "定时",
-      "推送"
-    ],
-    "social_link": "https://github.com/siciyuanweilai",
-    "category": "entertainment"
-  },
   "astrbot_plugin_group_auto_clean_member": {
     "display_name": "群聊自动满员清人",
     "desc": "(仅 OneBot) 当群聊满员时，自动移除活跃度倒数第一的成员，同时提示倒数第二成员尽快发言。",
