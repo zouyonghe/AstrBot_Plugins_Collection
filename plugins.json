@@ -5494,19 +5494,6 @@
     "social_link": "www.zousanzy.cn",
     "category": "utilities"
   },
-  "astrbot_plugin_slave_market": {
-    "display_name": "大牛马时代",
-    "desc": "Python 版牛马市场游戏，涵盖银行、市场、农务、VIP 等系统。",
-    "author": "magisk317",
-    "repo": "https://github.com/magisk317/astrbot_plugin_slave_market",
-    "tags": [
-      "牛马市场",
-      "经济系统",
-      "VIP自动化"
-    ],
-    "social_link": "https://github.com/magisk317",
-    "category": "entertainment"
-  },
   "astrbot_plugin_nyscheduler": {
     "display_name": "定时推送",
     "desc": "这是 AstrBot 的一个定时推送插件。包含 60s，摸鱼日历，今日金价，AI资讯。",

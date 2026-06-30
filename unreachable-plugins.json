@@ -1,3 +1,6 @@
 {
-  "astrbot_plugin_slave_market": "https://github.com/magisk317/astrbot_plugin_slave_market"
+  "command_to_llm": "https://github.com/kjqwer/astrbot_plugin_command_to_llm",
+  "ai_reminder": "https://github.com/kjqwer/astrbot_plugin_sy",
+  "ai_memory": "https://github.com/kjqwer/strbot_plugin_play_sy",
+  "huanju": "https://github.com/kjqwer/astrbot_plugin_game_sy"
 }
