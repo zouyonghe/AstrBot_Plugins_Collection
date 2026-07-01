@@ -7501,18 +7501,6 @@
     "social_link": "https://qm.qq.com/q/wMGXYfKKoS",
     "category": "utilities"
   },
-  "command_to_llm": {
-    "desc": "将指令（比如/help）转换为LLM函数（比如 get_help）调用，让AI能够通过LLM函数执行其他插件的指令，支持动态添加和管理指令映射",
-    "author": "kjqwdw",
-    "repo": "https://github.com/kjqwer/astrbot_plugin_command_to_llm",
-    "tags": [
-      "command",
-      "llm",
-      "function"
-    ],
-    "social_link": "https://github.com/kjqwer",
-    "category": "ai_tools"
-  },
   "astrbot_plugin_lark_send_patcher": {
     "desc": "通过猴子补丁的方式，优化了飞书Lark适配器下，机器人发送的消息引用太频繁的问题。现在飞书下所有的机器人回复从引用消息变更为直接发送。插件可能会随着astrbot本体版本更新，涉及到lark_adapter和lark_event重大更新时失效。",
     "author": "天各一方",
@@ -11142,24 +11130,6 @@
     "author": "wxgl",
     "repo": "https://github.com/wxgl/astrbot_websitetool",
     "category": "utilities"
-  },
-  "ai_reminder": {
-    "desc": "智能定时任务,可以看做是高级提醒，可以让ai在特定时间执行特定任务,注意禁用原提醒插件",
-    "author": "kjqwdw",
-    "repo": "https://github.com/kjqwer/astrbot_plugin_sy",
-    "category": "productivity"
-  },
-  "ai_memory": {
-    "desc": "一个AI记忆管理插件，可以让ai记住重要的事，记忆读取是ai自己调用的，有时候呆呆的ai不会自己调用，可以多问几次或者人格加上特定提示词,输入 /mem_help 查看记忆管理帮助",
-    "author": "kjqwdw",
-    "repo": "https://github.com/kjqwer/strbot_plugin_play_sy",
-    "category": "ai_tools"
-  },
-  "huanju": {
-    "desc": "欢乐21点游戏插件。输入 /hj help 查看关键词回复帮助。",
-    "author": "kjqwdw",
-    "repo": "https://github.com/kjqwer/astrbot_plugin_game_sy",
-    "category": "entertainment"
   },
   "astrbot_plugin_texas_holdem_poker": {
     "desc": "简单的德州扑克，/poker就可以开玩了",
