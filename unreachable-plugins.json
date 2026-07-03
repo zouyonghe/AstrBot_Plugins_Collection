@@ -1,1 +1,8 @@
-{}
+{
+  "astrbot_plugin_engram": "https://github.com/victical/astrbot_plugin_engram",
+  "astrbot_plugin_temp-email": "https://github.com/victical/astrbot_plugin_temp-email",
+  "astrbot_plugin_genie-tts": "https://github.com/victical/astrbot_plugin_genie-tts",
+  "astrbot_plugin_simulation-xiuxian": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
+  "astrbot_plugin_legado": "https://github.com/victical/astrbot_plugin_legado",
+  "astrbot_plugin_reimage": "https://github.com/victical/astrbot_plugin_reimage"
+}
