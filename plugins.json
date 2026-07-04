@@ -3726,17 +3726,6 @@
     "social_link": "https://github.com/KonmaKanSinPack",
     "category": "ai_tools"
   },
-  "astrbot_plugin_engram": {
-    "display_name": "仿生双轨记忆系统",
-    "desc": "仿生双轨记忆系统 - 长期记忆增强插件",
-    "author": "victical",
-    "repo": "https://github.com/victical/astrbot_plugin_engram",
-    "tags": [
-      "记忆",
-      "拟人"
-    ],
-    "category": "ai_tools"
-  },
   "astrbot_plugin_mc_manager": {
     "display_name": "astrbot_plugin_mc_manager",
     "desc": "通过 LLM 智能管理 Minecraft 服务器，支持 Fabric/Forge/NeoForge",
@@ -5650,16 +5639,6 @@
     "social_link": "https://www.misakanet.site",
     "category": "integrations"
   },
-  "astrbot_plugin_temp-email": {
-    "display_name": "临时邮箱",
-    "desc": "获取临时邮箱",
-    "author": "victical",
-    "repo": "https://github.com/victical/astrbot_plugin_temp-email",
-    "tags": [
-      "临时邮箱"
-    ],
-    "category": "utilities"
-  },
   "astrbot_plugin_reneban": {
     "display_name": "ReNeBan（Ban黑名单插件）",
     "desc": "黑名单插件，用于禁用指定用户在会话或全局范围内使用机器人的插件。管理员可通过指令对用户进行禁用或解除禁用，ban-help 查看简易帮助信息",
@@ -6315,16 +6294,6 @@
     "social_link": "https://github.com/oyxning",
     "category": "entertainment"
   },
-  "astrbot_plugin_genie-tts": {
-    "desc": "基于 Genie TTS 的语音合成插件",
-    "author": "victical",
-    "repo": "https://github.com/victical/astrbot_plugin_genie-tts",
-    "tags": [
-      "TTS",
-      "日语"
-    ],
-    "category": "utilities"
-  },
   "astrbot_plugin_jimengapi": {
     "display_name": "即梦 API",
     "desc": "对接即梦2 API，支持生图，图生图与文生视频",
@@ -6755,16 +6724,6 @@
     "social_link": "https://github.com/PaloMiku/",
     "category": "entertainment"
   },
-  "astrbot_plugin_simulation-xiuxian": {
-    "desc": "一个简单的文字模拟修仙插件",
-    "author": "Victical",
-    "repo": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
-    "tags": [
-      "模拟",
-      "修仙"
-    ],
-    "category": "entertainment"
-  },
   "astrbot_plugin_GroupFS": {
     "desc": "管理QQ群文件(仅限napcat)。",
     "author": "Foolllll",
@@ -7112,15 +7071,6 @@
       "开源"
     ],
     "category": "integrations"
-  },
-  "astrbot_plugin_legado": {
-    "desc": "随机小说",
-    "author": "Victical",
-    "repo": "https://github.com/victical/astrbot_plugin_legado",
-    "tags": [
-      "小说"
-    ],
-    "category": "entertainment"
   },
   "ark_info_search": {
     "desc": "使用明日方舟PRTS的Media API获取信息。",
@@ -8887,15 +8837,6 @@
     "desc": "[仅aiocqhttp]让bot 转人工/转人机，真人客服 接入对话/结束对话",
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities"
-  },
-  "astrbot_plugin_reimage": {
-    "author": "victical",
-    "repo": "https://github.com/victical/astrbot_plugin_reimage",
-    "tags": [
-      "图像转述"
-    ],
-    "desc": "将图像转述给不支持图像识别的大模型",
-    "category": "ai_tools"
   },
   "astrbot_plugin_sakisaki": {
     "author": "LumineStory",

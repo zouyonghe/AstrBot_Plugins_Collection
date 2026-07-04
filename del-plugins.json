@@ -419,5 +419,64 @@
     "author": "kjqwdw",
     "repo": "https://github.com/kjqwer/astrbot_plugin_game_sy",
     "category": "entertainment"
+  },
+  "astrbot_plugin_engram": {
+    "display_name": "仿生双轨记忆系统",
+    "desc": "仿生双轨记忆系统 - 长期记忆增强插件",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_engram",
+    "tags": [
+      "记忆",
+      "拟人"
+    ],
+    "category": "ai_tools"
+  },
+  "astrbot_plugin_genie-tts": {
+    "desc": "基于 Genie TTS 的语音合成插件",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_genie-tts",
+    "tags": [
+      "TTS",
+      "日语"
+    ],
+    "category": "utilities"
+  },
+  "astrbot_plugin_legado": {
+    "desc": "随机小说",
+    "author": "Victical",
+    "repo": "https://github.com/victical/astrbot_plugin_legado",
+    "tags": [
+      "小说"
+    ],
+    "category": "entertainment"
+  },
+  "astrbot_plugin_reimage": {
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_reimage",
+    "tags": [
+      "图像转述"
+    ],
+    "desc": "将图像转述给不支持图像识别的大模型",
+    "category": "ai_tools"
+  },
+  "astrbot_plugin_simulation-xiuxian": {
+    "desc": "一个简单的文字模拟修仙插件",
+    "author": "Victical",
+    "repo": "https://github.com/victical/astrbot_plugin_simulation-xiuxian",
+    "tags": [
+      "模拟",
+      "修仙"
+    ],
+    "category": "entertainment"
+  },
+  "astrbot_plugin_temp-email": {
+    "display_name": "临时邮箱",
+    "desc": "获取临时邮箱",
+    "author": "victical",
+    "repo": "https://github.com/victical/astrbot_plugin_temp-email",
+    "tags": [
+      "临时邮箱"
+    ],
+    "category": "utilities"
   }
 }
