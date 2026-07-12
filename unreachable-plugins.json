@@ -1,1 +1,15 @@
-{}
+{
+  "astrbot_scpsl_server": "https://github.com/liangkga/astrbot_scpsl_server",
+  "astrbot_plugin_wbank": "https://github.com/Zhalslar/astrbot_plugin_wbank",
+  "astrbot_plugin_uptime_kuma_puller": "https://github.com/HenryDu8133/astrbot_plugin_uptime_kuma_puller",
+  "astrbot_plugin_tarot": "https://github.com/XziXmn/astrbot_plugin_tarot",
+  "astrbot_plugin_a2s": "https://github.com/ZvZPvz/astrbot_plugin_a2s",
+  "FateTrial_Star_Rail": "https://github.com/FateTrial/FateTrial_Star_Rail",
+  "FateTrial_Genshin": "https://github.com/FateTrial/FateTrial_Genshin",
+  "astrbot_plugin_aliyun_censor": "https://github.com/Raven95676/astrbot_plugin_aliyun_censor",
+  "astrbot_plugin_ebooks": "https://github.com/zouyonghe/astrbot_plugin_ebooks",
+  "astrbot_plugin_AIQTalk": "https://github.com/zgojin/astrbot_plugin_AIQTalk",
+  "astrbot_plugin_KeyReply": "https://github.com/zgojin/astrbot_plugin_KeyReply",
+  "astrbot_plugin_better_facebread": "https://github.com/xiewoc/astrbot_plugin_better_facebread",
+  "astrbot_plugin_voicevox": "https://github.com/zouyonghe/astrbot_plugin_voicevox"
+}
