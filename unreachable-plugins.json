@@ -1,1 +1,8 @@
-{}
+{
+  "astrbot_quotes_plugin": "https://github.com/xiaoxi68/astrbot_quotes_plugin",
+  "astrbot_plugin_CourseSchedule": "https://github.com/advent259141/astrbot_plugin_CourseSchedule",
+  "群成员查询": "https://github.com/nuomicici/astrbot_plugin_GroupMemberQuery",
+  "astrbot_plugin_tts_modify": "https://github.com/L1ke40oz/astrbot_plugin_tts_modify",
+  "astrbot_plugin_iearning_style": "https://github.com/qa296/astrbot_plugin_iearning_style",
+  "astrbot_plugin_provider_ark": "https://github.com/caqingtgas/astrbot_plugin_provider_ark"
+}
