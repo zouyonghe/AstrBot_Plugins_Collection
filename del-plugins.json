@@ -478,5 +478,15 @@
       "临时邮箱"
     ],
     "category": "utilities"
+  },
+  "astrbot_plugin_permission-manager": {
+    "display_name": "指令权限管理器",
+    "desc": "批量权限管理插件，提供便捷的批量权限设置功能。支持Webui管理插件指令权限",
+    "author": "珈百璃",
+    "repo": "https://github.com/TenmaGabriel0721/astrbot_plugin_permission-manager",
+    "tags": [
+      "指令"
+    ],
+    "category": "productivity"
   }
 }

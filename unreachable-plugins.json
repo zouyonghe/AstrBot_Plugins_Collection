@@ -1,3 +1,5 @@
 {
-  "astrbot_plugin_permission-manager": "https://github.com/TenmaGabriel0721/astrbot_plugin_permission-manager"
+  "astrbot-plugin-inaturalist-search": "https://github.com/CecilyGao/astrbot_plugin_inaturalist_search",
+  "astrbot-plugin-gbif-search": "https://github.com/CecilyGao/astrbot_plugin_gbif_search",
+  "astrbot_plugin_color": "https://github.com/CecilyGao/astrbot_plugin_color"
 }
