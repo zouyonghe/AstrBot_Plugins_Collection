@@ -488,5 +488,51 @@
       "指令"
     ],
     "category": "productivity"
+  },
+  "astrbot-plugin-gbif-search": {
+    "display_name": "GBIF自然科学数据库查询插件",
+    "desc": "一个基于 GBIF API 的 AstrBot 插件，支持物种分类信息查询和 occurrence（出现记录）搜索。支持关键词模糊匹配，命令缩写，可返回文本或图片。",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_gbif_search",
+    "tags": [
+      "自然",
+      "科学",
+      "数据库",
+      "关键词搜索",
+      "生物",
+      "生态",
+      "分布"
+    ],
+    "social_link": "https://github.com/CecilyGao",
+    "category": "utilities"
+  },
+  "astrbot-plugin-inaturalist-search": {
+    "display_name": "iNaturalist自然观察数据查询插件",
+    "desc": "一个基于 iNaturalist API 的 AstrBot 插件，支持物种分类信息查询和观察记录搜索。",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_inaturalist_search",
+    "tags": [
+      "自然",
+      "生物",
+      "生态",
+      "照片",
+      "观察",
+      "科学",
+      "记录",
+      "数据库"
+    ],
+    "social_link": "https://github.com/CecilyGao",
+    "category": "integrations"
+  },
+  "astrbot_plugin_color": {
+    "display_name": "颜色转换器",
+    "desc": "实现颜色格式互转、图片按坐标取色等颜色分析功能",
+    "author": "CecilyGao",
+    "repo": "https://github.com/CecilyGao/astrbot_plugin_color",
+    "tags": [
+      "视觉",
+      "颜色"
+    ],
+    "category": "utilities"
   }
 }
