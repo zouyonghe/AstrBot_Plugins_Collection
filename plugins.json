@@ -7121,16 +7121,6 @@
     "repo": "https://github.com/Dt8333/astrbot_plugin_model_mcp_bridge",
     "category": "ai_tools"
   },
-  "Codex": {
-    "desc": "AstrBot_Codex 是一个基于 Docker 的 Linux 命令执行插件，专为 AstrBot 开发，能够安全地在隔离的 Docker 容器中执行多种编程语言的代码并返回结果。",
-    "author": "TuF3i",
-    "repo": "https://github.com/TuF3i/astrBot_plugin_Codex",
-    "tags": [
-      "命令执行",
-      "docker"
-    ],
-    "category": "ai_tools"
-  },
   "textToImg": {
     "desc": "修改自 薄暝(二创)和喵喵的 OpenRouter 生图插件(原创)。使用 OpenAI 格式的免费 API 生成图片兼容硅基流动生图",
     "author": "hugh",
