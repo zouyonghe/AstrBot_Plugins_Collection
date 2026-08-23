@@ -544,5 +544,25 @@
       "docker"
     ],
     "category": "ai_tools"
+  },
+  "astrbot_plugin_alistfile": {
+    "author": "linjianyan",
+    "repo": "https://github.com/linjianyan0229/astrbot_plugin_alistfile",
+    "desc": "支持对 alist 的下载和上传（仅支持图上传）",
+    "tags": [
+      "alist"
+    ],
+    "social_link": "https://github.com/linjianyan0229",
+    "category": "integrations"
+  },
+  "astrbot_plugin_monixiuxian": {
+    "display_name": "模拟修仙",
+    "desc": "一款为 AstrBot 设计的、功能丰富的放置类修仙游戏插件。让你在聊天群中体验从凡人到大能的修行之路，工作摸鱼、畅聊吹水的同时亦可得道飞升！",
+    "author": "linjianyan0229",
+    "repo": "https://github.com/linjianyan0229/astrbot_plugin_monixiuxian",
+    "tags": [
+      "修仙"
+    ],
+    "category": "entertainment"
   }
 }
