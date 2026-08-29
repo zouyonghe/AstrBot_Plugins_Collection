@@ -564,5 +564,48 @@
       "修仙"
     ],
     "category": "entertainment"
+  },
+  "astrbot_plugin_gif_vision_helper": {
+    "display_name": "GIF Vision Helper",
+    "desc": "将QQ GIF动图拆成多帧静态图，让多模态模型真正看懂动图",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_gif_vision_helper",
+    "tags": [
+      "优化"
+    ],
+    "category": "utilities"
+  },
+  "astrbot_plugin_img_rev_searcher_Ver2": {
+    "display_name": "图片反搜聚合Ver2",
+    "desc": "图片反搜聚合插件，支持多种图片反向搜索引擎",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_img_rev_searcher_Ver2",
+    "tags": [
+      "图片反搜",
+      "以图搜图",
+      "工具"
+    ],
+    "category": "utilities"
+  },
+  "astrbot_plugin_smart_translator": {
+    "display_name": "Smart Translator",
+    "desc": "基于 LLM 的自然语言翻译插件，支持 50+ 语言、二次翻译和多种输出格式",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_smart_translator",
+    "tags": [
+      "翻译"
+    ],
+    "category": "productivity"
+  },
+  "astrbot_plugin_vertex_image-command": {
+    "display_name": "Vertex Image Command",
+    "desc": "使用 Google Vertex AI 生成图片（基于薄暝的插件修改）",
+    "author": "YanL",
+    "repo": "https://github.com/Yanlyn/astrbot_plugin_vertex_image-command",
+    "tags": [
+      "生图",
+      "gemini"
+    ],
+    "category": "ai_tools"
   }
 }
