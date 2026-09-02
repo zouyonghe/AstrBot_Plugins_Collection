@@ -607,5 +607,15 @@
       "gemini"
     ],
     "category": "ai_tools"
+  },
+  "astrbot_plugin_saris_fish": {
+    "desc": "赛博钓鱼。需要前置插件: astrbot_plugin_saris_db",
+    "author": "城城",
+    "tags": [
+      "游戏",
+      "钓鱼"
+    ],
+    "repo": "https://github.com/chengcheng0325/astrbot_plugin_saris_fish",
+    "category": "entertainment"
   }
 }
