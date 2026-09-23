@@ -4711,18 +4711,6 @@
     ],
     "category": "entertainment"
   },
-  "astrbot_plugin_qwen_codeimage": {
-    "display_name": "qwen_codeimage",
-    "desc": "日志代码截图分析，发送给bot图片用来识别图片内容，日志代码分析，提取图片内容。",
-    "author": "variant305-glitch",
-    "repo": "https://github.com/variant305-glitch/astrbot-qwen-image-code",
-    "tags": [
-      "日志代码截图分析",
-      "提取图中文字"
-    ],
-    "social_link": "https://github.com/variant305-glitch",
-    "category": "ai_tools"
-  },
   "astrbot_plugin_maskoff": {
     "display_name": "识人术",
     "desc": "防止你的小 LLM 因为别人把名字改成你的就认错人",
