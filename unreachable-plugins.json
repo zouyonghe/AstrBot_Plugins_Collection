@@ -1,1 +1,18 @@
-{}
+{
+  "astrbot-plugin-custome-segment-reply": "https://github.com/LinJohn8/astrbot_plugin_custome_segment_reply",
+  "astrbot-plugin-animatedemoji": "https://github.com/camera-2018/astrbot_plugin_animatedemoji",
+  "astrbot-plugin-yunhuAdapter": "https://github.com/Soffd/astrbot_plugin_yunhuAdapter",
+  "astrbot-plugin-zirunbi": "https://github.com/oyxning/astrbot_plugin_zirunbi",
+  "astrbot_plugin_qinglong": "https://github.com/onniemi/astrbot_plugin_qinglong",
+  "astrbot_plugin_minecraft_skin_render": "https://github.com/SatellIta/astrbot_plugin_minecraft_skin_render",
+  "astrbot_plugin_dailyacmfortune": "https://github.com/Dayanshifu/astrbot_plugin_dailyacmfortune",
+  "astrbot_plugin_llm_failover": "https://github.com/Ryan7t/astrbot_plugin_llm_failover",
+  "astrbot_plugin_mirage_tank": "https://github.com/Yuzi-Liang/astrbot_plugin_mirage_tank",
+  "persistent_history": "https://github.com/Komeiji-Shiki/astrbot_plugin_persistent_history",
+  "astrbot_plugin_immersive_error": "https://github.com/Hina-Chat/astrbot_plugin_immersive_error",
+  "astrbot_plugin_eat_history": "https://github.com/logicat-123/astrbot_plugin_eat_history",
+  "astrbot_plugin_stock": "https://github.com/anchorAnc/astrbot_plugin_stock",
+  "astrbot_plugin_a2s": "https://github.com/ZvZPvz/astrbot_plugin_a2s",
+  "astrbot_plugin_Lolicon": "https://github.com/ttq7/astrbot_plugin_Lolicon",
+  "astrbot_plugin_Translation": "https://github.com/zengweis/astrbot_plugin_Translation"
+}
