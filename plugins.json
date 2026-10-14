@@ -8984,12 +8984,6 @@
     "social_link": "https://github.com/tyql688/WutheringWavesUID",
     "category": "utilities"
   },
-  "astrbot_plugin_mrfz_haunting_query": {
-    "author": "Ricky",
-    "desc": "明日方舟抽卡查询",
-    "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
-    "category": "entertainment"
-  },
   "astrbot_plugin_deepwiki": {
     "display_name": "Deepwiki查询",
     "author": "Zhalslar",

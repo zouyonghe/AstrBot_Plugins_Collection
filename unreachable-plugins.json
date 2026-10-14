@@ -1,3 +1,6 @@
 {
-  "astrbot_plugin_mrfz_haunting_query": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query"
+  "astrbot-ctfpusher-plugin": "https://github.com/btop251/astrbot_ctfpush_plugin",
+  "astrbot-plugin-steamachievement-query": "https://github.com/Murokivot/astrbot_plugin_steamachievement_query",
+  "astrbot_plugin_bilibili_adapter": "https://github.com/Hina-Chat/astrbot_plugin_bilibili_adapter",
+  "astrbot_plugin_move3d": "https://github.com/vmoranv/astrbot_plugin_move3d"
 }

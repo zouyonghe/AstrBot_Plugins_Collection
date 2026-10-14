@@ -629,5 +629,11 @@
     ],
     "social_link": "https://github.com/variant305-glitch",
     "category": "ai_tools"
+  },
+  "astrbot_plugin_mrfz_haunting_query": {
+    "author": "Ricky",
+    "desc": "明日方舟抽卡查询",
+    "repo": "https://github.com/R1ckyQaQ/astrbot_plugin_mrfz_haunting_query",
+    "category": "entertainment"
   }
 }
