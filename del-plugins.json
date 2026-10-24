@@ -678,5 +678,17 @@
       "自动点赞"
     ],
     "category": "entertainment"
+  },
+  "astrbot-plugin-niji": {
+    "display_name": "Niji Diary Sync",
+    "desc": "自动将聊天记录同步到你的日记网站，支持每日自动上传和手动触发同步。",
+    "author": "iamfromchangsha",
+    "repo": "https://github.com/iamfromchangsha/astrbot_plugin_niji",
+    "tags": [
+      "你的日记",
+      "日记保存"
+    ],
+    "social_link": "https://github.com/iamfromchangsha",
+    "category": "integrations"
   }
 }
