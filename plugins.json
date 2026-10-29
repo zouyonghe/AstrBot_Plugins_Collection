@@ -4916,20 +4916,6 @@
     "social_link": "https://github.com/GEMILUXVII",
     "category": "integrations"
   },
-  "astrbot_plugin_qinglong": {
-    "display_name": "青龙面板管理",
-    "desc": "通过聊天管理青龙面板，支持任务管理、环境变量、日志查看等",
-    "author": "Haitun",
-    "repo": "https://github.com/onniemi/astrbot_plugin_qinglong",
-    "category": "integrations"
-  },
-  "astrbot_plugin_1panel": {
-    "display_name": "1Panel 服务器管理",
-    "desc": "通过聊天管理 1Panel 面板，支持查看系统状态、容器管理、定时任务等",
-    "author": "Haitun",
-    "repo": "https://github.com/onniemi/astrbot_plugin_1panel",
-    "category": "integrations"
-  },
   "astrbot_plugin_imgtool": {
     "display_name": "astrbot_plugin_imgtool",
     "desc": "图像生成 LLM 工具，支持多 Provider（硅基流动 / ModelScope / OpenRouter / 自定义/ Gemini /豆包（火山）",
