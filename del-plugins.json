@@ -1213,5 +1213,11 @@
     ],
     "social_link": "https://github.com/Zhalslar",
     "category": "utilities"
+  },
+  "httpposter": {
+    "desc": "HTTP请求工具",
+    "author": "Wayzinx",
+    "repo": "https://github.com/Wayzinx/httpposter",
+    "category": "utilities"
   }
 }

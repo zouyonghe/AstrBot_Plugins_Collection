@@ -9572,12 +9572,6 @@
     ],
     "category": "entertainment"
   },
-  "httpposter": {
-    "desc": "HTTP请求工具",
-    "author": "Wayzinx",
-    "repo": "https://github.com/Wayzinx/httpposter",
-    "category": "utilities"
-  },
   "astrbot_plugin_quarksave": {
     "desc": "调用quark-auto-save实现自动转存资源到自己的夸克网盘",
     "author": "lm379",
