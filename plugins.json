@@ -10053,15 +10053,6 @@
     "repo": "https://github.com/laopanmemz/astrbot_plugin_chatsummary",
     "category": "ai_tools"
   },
-  "astrbot_plugin_bv": {
-    "desc": "解析群内 https://www.bilibili.com/video/BV号/ 的链接并获取视频数据与视频文件，以合并转发方式发送",
-    "author": "haliludaxuanfeng",
-    "repo": "https://github.com/haliludaxuanfeng/astrbot_plugin_bv",
-    "tags": [
-      "bilibili"
-    ],
-    "category": "entertainment"
-  },
   "astrBot_PGR_Dialogue": {
     "desc": "检测到部分战双角色的名称(或别称)时，有概率发送一条语音文本",
     "author": "KurisuRee7",
@@ -10481,12 +10472,6 @@
     "repo": "https://github.com/zouyonghe/astrbot_plugin_anti_porn",
     "category": "utilities"
   },
-  "FateTrial_zhipu_video": {
-    "desc": "智谱AI视频生成插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_zhipu_video",
-    "category": "ai_tools"
-  },
   "astrbot_plugin_tagger": {
     "desc": "识别图片并生成AI绘画tag标签",
     "author": "yudengghost",
@@ -10589,12 +10574,6 @@
     "repo": "https://github.com/lxfight/astrbot_plugin_mnemosyne",
     "category": "ai_tools"
   },
-  "FateTrial_img_identify": {
-    "desc": "智谱AI图像识别插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_img_identify",
-    "category": "ai_tools"
-  },
   "astrbot_plugin_shell_executor": {
     "desc": "用于AstrBot的shell远程执行器",
     "author": "buding",
@@ -10611,18 +10590,6 @@
     "desc": "用于AstrBot的复读机插件",
     "author": "FengYing",
     "repo": "https://github.com/FengYing1314/astrbot_plugin_repetition",
-    "category": "entertainment"
-  },
-  "FateTrial_Star_Rail": {
-    "desc": "崩铁查询插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_Star_Rail",
-    "category": "entertainment"
-  },
-  "FateTrial_Genshin": {
-    "desc": "原神查询插件",
-    "author": "FateTrial",
-    "repo": "https://github.com/FateTrial/FateTrial_Genshin",
     "category": "entertainment"
   },
   "astrbot_plugin_aliyun_censor": {
