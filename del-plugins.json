@@ -1252,5 +1252,13 @@
       "bilibili"
     ],
     "category": "entertainment"
+  },
+  "astrbot_plugin_video_sora2": {
+    "display_name": "sora2",
+    "desc": "astrbot_plugin_video_sora的 fork 版本支持自动获取 ChatGPT AccessToken",
+    "author": "maimai",
+    "repo": "https://github.com/maimai993/astrbot_plugin_video_sora2",
+    "social_link": "https://github.com/maimai993",
+    "category": "ai_tools"
   }
 }
